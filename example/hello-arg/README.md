@@ -1,4 +1,4 @@
-This is example of cli built with NDK.
+This is an example of building and running a **cli** application with NDK.
 
 This example can be built using CMake as well as the ndk-build tool.
 
@@ -46,8 +46,10 @@ adb shell
 blueline:/ $ /data/local/tmp/hello-arg
 Hello World!
 ```
-4. To exit the shell afterwards  
-`blueline:/ $ exit`
 
+4. To exit the shell afterwards  
+```
+blueline:/ $ exit
+```
 
 
